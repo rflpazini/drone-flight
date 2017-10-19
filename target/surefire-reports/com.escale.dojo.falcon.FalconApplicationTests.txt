@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.escale.dojo.falcon.FalconApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.968 sec <<< FAILURE! - in com.escale.dojo.falcon.FalconApplicationTests
+shouldSumTwoNumbers(com.escale.dojo.falcon.FalconApplicationTests)  Time elapsed: 0.12 sec  <<< FAILURE!
+java.lang.AssertionError: expected:<3> but was:<4>
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.failNotEquals(Assert.java:834)
+	at org.junit.Assert.assertEquals(Assert.java:645)
+	at org.junit.Assert.assertEquals(Assert.java:631)
+	at com.escale.dojo.falcon.FalconApplicationTests.shouldSumTwoNumbers(FalconApplicationTests.java:15)
+
