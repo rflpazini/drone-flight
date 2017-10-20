@@ -5,9 +5,9 @@
 Our job is to create a program that selects **'G'** drones with greatest flight range that are available.
 
 For that we are given the following information:
-* A list of all drones containing its numeral ID and its flight range in kilometers (Km).
-* The required amount of drones (**'G'**)
-* A list of dorne IDs that are currently in maintenance and thus ARE NOT AVAILABLE for operations
+* A list of all drones containing its numeral ID and its flight range in kilometers;
+* The required amount of drones (**'G'**);
+* A list of drone IDs that are currently in maintenance and thus ARE NOT AVAILABLE for operations.
 
 The program must return a list of the IDs of the **'G'** selected drones, sorted by flight range (greater first).
 
