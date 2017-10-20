@@ -4,7 +4,7 @@
 
 Our job is to create a program that selects **'G'** drones with greatest flight range that are available.
 
-For that we are given the following information:
+We are given the following information:
 * A list of all drones containing its numeral ID and its flight range in kilometers;
 * The required amount of drones (**'G'**);
 * A list of drone IDs that are currently in maintenance and thus ARE NOT AVAILABLE for operations.
