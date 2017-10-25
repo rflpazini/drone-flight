@@ -6,7 +6,10 @@ public class FalconApplication {
         System.out.println("Falcon is on Air...");
     }
 
-    public static String sayHelloToEveryOne() {
+    /*
+     * Some methods examples
+     */
+   public static String sayHelloToEveryOne() {
         return "Hello friends!";
     }
 
